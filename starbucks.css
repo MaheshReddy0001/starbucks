@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    height: 90px;
+    background-color: rgb(133, 171, 167);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    padding-left: 50px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.main2 {
+    padding-right: 150px;
+    display: flex;
+    gap: 50px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    
+}
+
+.c1 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+input {
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+}
+
+.button {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border: none;
+    border: 2px solid black;
+}
+
+.main3 {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(24, 54, 24);
+    color: aliceblue;
+    padding-left: 120px;
+}
+
+.button2 {
+    padding: 10px 30px;
+    background-color: rgb(31, 62, 31);
+    color: aliceblue;
+    border: none;
+    border-radius: 15px;
+    border: 2px solid white;
+    margin-right: 100px;
+}
+
+.main4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    padding-top: 80px;
+}
+
+.submain {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.head1 {
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 25px;
+}
+
+.main5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.submain2 {
+    width: 1250px;
+    height: 250px;
+    background-color: orange;
+    margin-top: 90px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+
+}
+
+.div2 {
+    padding-bottom: 40px;
+    padding-left: 30px;
+
+}
+
+.divbutton {
+    padding-top: 120px;
+    padding-left: 50px;
+}
+
+.button3 {
+    padding: 10px 30px;
+    border-radius: 50px;
+    background-color: rgb(27, 111, 27);
+    color: rgb(255, 255, 255);
+    border: none;
+
+}
+
+.heading {
+    padding-left: 120px;
+    padding-top: 40px;
+    height: 80px;
+}
+
+.main6 {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.submain3 {
+    background-color: rgba(157, 154, 150, 0.243);
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.submain31 {
+    padding-left: 10px;
+}
+
+.img {
+    border-radius: 20px 0px;
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.divbutton1 {
+    padding-left: 250px;
+}
+
+.submain3:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.head2 {
+    width: 90%;
+    padding-left: 100px;
+    height: 80px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.button4 {
+    margin-right: 120px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 40px;
+    color: rgb(53, 146, 53);
+
+}
+
+.button4:hover {
+    background-color: rgb(35, 77, 35);
+    color: aliceblue;
+}
+
+.main7 {
+    width: 100%;
+    height: 360px;
+    background-color:#edebe9;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+
+}
+
+.img2 {
+    margin-top: 20px;
+    margin-left: 18px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.submain4 {
+    width: 550px;
+    height: 220px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-left: 100px;
+    
+}
+.h3submain4{
+    padding-top:40px;
+    padding-right: 95px;
+}
+.psubmain4{
+    padding-left: 130px;
+}
+.h3submain5{
+    padding-top:40px;
+    padding-right: 150px;
+}
+.psubmain5{
+    padding-left: 120px;
+}
+.submain5 {
+    width: 550px;
+    height: 220px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.main8 {
+    width: 100%;
+    height: 80px;
+}
+
+.main9 {
+    background-color: #edebe9;
+    width: 100%;
+    height: 500px;
+}
+.submain911{
+    padding: 60px 20px 0px 80px;
+}
+.submain92{
+    padding-left: 80px;
+    padding-top: 15px;
+    display: flex;
+}
+
+.img3{
+    width: 1300px;
+    height: 320px;
+    background-image: url(https://preprodtsbstorage.blob.core.windows.net/cms/uploads/coffee_culture_blog_web1_c6e691b286.jpg);
+    border-radius: 10px;
+    box-shadow: inset 5px 0px 40px 30px rgba(33, 31, 31, 0.719);
+}
+
+.submain921{
+    position: absolute;
+    padding-top: 135px;
+    padding-left: 20px;
+    
+}
+.button5{
+    padding: 10px 55px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 40px;
+}
+.button5:hover{
+    background-color: rgb(133, 171, 167);
+}
